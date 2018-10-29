@@ -1,0 +1,7 @@
+#include<stdio.h>
+void main()
+{
+  int m;
+  m=9*2;
+  printf("%d",m);
+}
